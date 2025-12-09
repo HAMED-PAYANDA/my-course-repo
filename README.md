@@ -1,4 +1,4 @@
-# Final Cloud App with Database
+# Django Cloud App with Database
 Overview
 This is a Django-based web application that allows users to explore courses, enroll, take exams, and view results. The app includes user authentication, instructor and learner roles, and dynamic course content management.
 The project was developed as part of a full-stack web development course, focusing on cloud-ready applications with database integration.
