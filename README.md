@@ -34,10 +34,5 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 =======
-# my-course-repo
-Final project Django
->>>>>>> 4e0088f51296fc939f26c19a383b4c23ea5329e6
-# my-course-repo
-Final project Django
 
 
