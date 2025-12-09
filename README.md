@@ -1,4 +1,4 @@
-Final Cloud App with Database
+# Final Cloud App with Database
 Overview
 This is a Django-based web application that allows users to explore courses, enroll, take exams, and view results. The app includes user authentication, instructor and learner roles, and dynamic course content management.
 The project was developed as part of a full-stack web development course, focusing on cloud-ready applications with database integration.
@@ -40,19 +40,4 @@ Final project Django
 # my-course-repo
 Final project Django
 
-**General Notes**
-
-An `onlinecourse` app has already been provided in this repo upon which you will be adding a new assessment feature.
-
-- If you want to develop the final project on Theia hosted by IBM Developer Skills Network
-- Or you could develop the final project locally by setting up your own Python runtime and IDE
-- Hints for the final project are left on source code files
-- You may choose any cloud platform for deployment (default is IBM Cloud Foundry)
-- Depending on your deployment, you may choose any SQL database Django supports such as SQLite3, PostgreSQL, etc.
-
-**ER Diagram**
-
-For your reference, we have prepared the ER diagram design for the new assessment feature.
-
-![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/main/static/onlinecourse/images/course_er_diagram.png)
 
